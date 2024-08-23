@@ -59,6 +59,8 @@ pinout:
   ua[2]: "gate1"
   ua[3]: "gate2"
   ua[4]: "gate3"
+  ua[5]: ""
+
 
 # Do not change!
 yaml_version: 6
