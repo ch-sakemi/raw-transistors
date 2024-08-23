@@ -9,11 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Just raw NMOS and PMOS transistors
 
 ## How to test
 
-Explain how to use your project
+ua[0] and ua[1] are connected to source and drain of MOSFETs (NMOS1, NMOS2, and PMOS1).
+The length/width are 0.25um/1.0um for all MOSFETs. 
+ua[2] for the gate bias for NMOS1, ua[3] for the gate bias for NMOS2, and ua[4] for the gate bias for PMOS1.
+Set the bias voltages, then measure the current. 
 
 ## External hardware
 
