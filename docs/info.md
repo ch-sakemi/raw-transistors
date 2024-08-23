@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Just raw NMOS and PMOS transistors
+Just raw NMOS and PMOS transistors.
 
 ## How to test
 
